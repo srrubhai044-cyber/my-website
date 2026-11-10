@@ -1,0 +1,9 @@
+<resources>
+    <color name="background">#090A10</color>
+    <color name="surface">#141620</color>
+    <color name="surface_alt">#1D2030</color>
+    <color name="purple">#9B72FF</color>
+    <color name="blue">#5C9DFF</color>
+    <color name="text_primary">#F7F7FB</color>
+    <color name="text_secondary">#A5A8B8</color>
+</resources>
